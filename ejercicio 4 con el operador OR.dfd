@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+'valor total de la compra'
+5
+1
+5
+total
+7
+0
+1
+29
+total>=30000  or  total=50000
+13
+4
+1
+26
+'recibes descuento del 5%'
+6
+2
+1
+d
+10
+total*0.05
+4
+desc
+7
+total-d
+4
+1
+4
+desc
+13
+1

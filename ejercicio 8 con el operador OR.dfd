@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+'ingrese edad del cliente'
+5
+1
+4
+edad
+4
+1
+21
+'fecha de nacimiento'
+5
+1
+5
+fecha
+7
+0
+1
+23
+edad>=18 or fecha<=2006
+4
+1
+18
+'no puedes entrar'
+13
+4
+1
+15
+'puedes entrar'
+13
+1

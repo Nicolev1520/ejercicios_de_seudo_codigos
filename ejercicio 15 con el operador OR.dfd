@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+15
+'INGRESE FRUTA'
+5
+1
+1
+f
+4
+1
+16
+'valor de fruta'
+5
+1
+1
+v
+7
+0
+1
+55
+f='bananos' or f='fresas' or f='mangos' or f='naranjas'
+4
+1
+31
+'esta fruta no tiene descuento'
+13
+4
+1
+40
+'esta fruta tiene un descuento del 20% '
+6
+2
+1
+d
+5
+v*0.2
+4
+desc
+3
+v-d
+4
+1
+4
+desc
+13
+1

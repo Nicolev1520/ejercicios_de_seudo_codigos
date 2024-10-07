@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+27
+'digite nombre del usuario'
+5
+1
+6
+nombre
+4
+1
+19
+'digite contraseña'
+5
+1
+6
+contra
+7
+0
+1
+29
+nombre='admin' or contra=1234
+4
+1
+17
+'acceso denegado'
+13
+4
+1
+18
+'acceso concedido'
+13
+1
