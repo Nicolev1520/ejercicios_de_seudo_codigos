@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+'ingrese edad del votante'
+5
+1
+4
+edad
+4
+1
+39
+'ingrese fecha de cedula de ciudadania'
+5
+1
+5
+fecha
+7
+0
+1
+24
+edad>=18 and fecha<=2005
+4
+1
+17
+'no puedes votar'
+13
+4
+1
+16
+'¡puedes votar!'
+13
+1

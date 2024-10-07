@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'ingrese edad de la persona'
+5
+1
+4
+edad
+4
+1
+42
+'pago para obtener licencia de conduccion'
+5
+1
+4
+pago
+7
+0
+1
+24
+edad>=18 and pago=100000
+4
+1
+36
+'no obtienes licencia de conduccion'
+13
+4
+1
+33
+'obtienes licencia de conduccion'
+13
+1

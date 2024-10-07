@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+'ingrese edad del cliente'
+5
+1
+4
+edad
+4
+1
+31
+'ingrese valor total de compra'
+5
+1
+6
+compra
+7
+0
+1
+27
+edad>=60 and compra>=60.000
+4
+1
+33
+'el cliente no obtiene descuento'
+13
+4
+1
+39
+'el cliente tiene un descuento del 30%'
+6
+2
+5
+descu
+10
+compra*0.3
+4
+desc
+12
+compra-descu
+4
+1
+4
+desc
+13
+1

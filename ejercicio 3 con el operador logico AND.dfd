@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'ingrese la edad de la persona'
+5
+1
+4
+edad
+4
+1
+23
+'ingrese valor de pase'
+5
+1
+4
+pase
+7
+0
+1
+25
+edad>=18 and pase>=50.000
+4
+1
+18
+'no puedes entrar'
+13
+4
+1
+29
+'puede entrar a la discoteca'
+13
+1

@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+33
+'ingrese las notas de la materia'
+5
+1
+6
+n1, n2
+7
+0
+1
+19
+n1>=3.0 and n2>=3.0
+7
+0
+1
+20
+n1<=2.9 and n2<=2.9 
+13
+4
+1
+36
+'el estudiante no aprovo la materia'
+13
+13
+4
+1
+47
+'el estudiante a aprobado la materia con exito'
+13
+1
